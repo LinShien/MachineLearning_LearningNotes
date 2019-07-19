@@ -1,2 +1,2 @@
 # MachineLearning_LearningNotes
-This is a repository that storing my homeworks during the class
+This is a repository storing my homeworks during the ML class
